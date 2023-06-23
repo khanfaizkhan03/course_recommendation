@@ -13,6 +13,7 @@ st.set_page_config(
    layout="wide",
    initial_sidebar_state="expanded",
 )
+st.write("This app is bulit by Faiz Khan [https://www.linkedin.com/in/faiz-khandatascience]")
 # ------- Functions ------
 # Load datasets
 @st.cache_resource
