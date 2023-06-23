@@ -6,7 +6,7 @@ import backend as backend
 from st_aggrid import AgGrid
 from st_aggrid.grid_options_builder import GridOptionsBuilder
 from st_aggrid import GridUpdateMode, DataReturnMode
-
+st.title("this recommendation app is bulit by faiz khan[https://www.linkedin.com/in/faiz-khandatascience]")
 # Basic webpage setup
 st.set_page_config(
    page_title="Course Recommender System",
